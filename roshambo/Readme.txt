@@ -1,0 +1,1 @@
+This program pits user against the computer in an epic battle of rock,paper and scissors
